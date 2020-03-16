@@ -1,1 +1,1 @@
-# SRG-studio-portfolio
+# SRGstudio
